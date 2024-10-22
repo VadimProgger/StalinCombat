@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    max-width: 720px;
+    height: 1280px;
+}
+
+#photo-token{
+    width: 300px;
+    height: 300px;
+}
+
+.Token-Stalin-Button{
+    display: flex;
+    justify-content: center;
+}
+
+.Score-coin{
+    color: white;
+    text-align: center;
+}
+
+.Boost-button{
+    color: white;
+    text-align: center;
+}
